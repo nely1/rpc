@@ -1,0 +1,11 @@
+test_server
+test_client
+client
+server
+rpc-client
+rpc-server
+*.o
+client_reference.c
+server_reference.c
+*.a
+.vscode
